@@ -1,0 +1,603 @@
+[
+        {
+        "sent_id": 0,
+        "text": "“Many of the influencers praising Chinese culture are actively denigrating America.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "“Many of the influencers"
+                    ],
+                    [
+                        "0:24"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chinese culture"
+                    ],
+                    [
+                        "34:49"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "praising"
+                    ],
+                    [
+                        "25:33"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "“Many of the influencers"
+                    ],
+                    [
+                        "0:24"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "America"
+                    ],
+                    [
+                        "74:82"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "actively denigrating"
+                    ],
+                    [
+                        "54:74"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 1,
+        "text": "They’re aesthetically, morally and politically defecting to another superpower.”",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "They're"
+                    ],
+                    [
+                        "0:7"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "aesthetically, morally and politically defecting to another superpower"
+                    ],
+                    [
+                        "8:56"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 2,
+        "text": "To some critics, this wholesale flattening of an enormous country into little more than a vibe leaves a bitter taste – and seems a bit rich when just a few years ago, east Asian diaspora communities were experiencing so much hostility as they were blamed for Covid.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "some critics"
+                    ],
+                    [
+                        "3:15"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "this wholesale flattening of an enormous country into little more than a vibe"
+                    ],
+                    [
+                        "17:94"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "leaves a bitter taste"
+                    ],
+                    [
+                        "95:116"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 3,
+        "text": "It makes China an abstraction on to which Americans can project their anxieties about their own country.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Americans"
+                    ],
+                    [
+                        "40:49"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "their own country"
+                    ],
+                    [
+                        "76:93"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "project their anxieties"
+                    ],
+                    [
+                        "50:72"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 4,
+        "text": "Now, it's fairly obvious why this trend has rattled the American right.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "American right"
+                    ],
+                    [
+                        "56:70"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "this trend"
+                    ],
+                    [
+                        "29:39"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "rattled"
+                    ],
+                    [
+                        "44:51"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 5,
+        "text": "And culture is a long-established form of soft power.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "culture"
+                    ],
+                    [
+                        "4:11"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "long-established form of soft power"
+                    ],
+                    [
+                        "15:50"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 6,
+        "text": "We watch American shows, listen to American music – we feel their joy and pain – and rightly or wrongly, in doing so we also find ourselves more amenable to their brands, their politics, their power.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "We"
+                    ],
+                    [
+                        "0:2"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "their brands, their politics, their power"
+                    ],
+                    [
+                        "157:198"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "find ourselves more amenable to"
+                    ],
+                    [
+                        "125:153"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 7,
+        "text": "Fortunately for British TikTokers, Chinamaxxing doesn't trigger the same level of suspicion, which is probably explained by Britain's more nuanced relationship to China.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "British TikTokers"
+                    ],
+                    [
+                        "16:33"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chinamaxxing"
+                    ],
+                    [
+                        "35:47"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "doesn't trigger the same level of suspicion"
+                    ],
+                    [
+                        "48:91"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 8,
+        "text": "For sure, young Brits share with American peers a feeling of frustration and disillusionment that their countries are no longer places they feel secure.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "young Brits",
+                        "American peers"
+                    ],
+                    [
+                        "10:21",
+                        "33:47"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "their countries"
+                    ],
+                    [
+                        "98:113"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "frustration and disillusionment"
+                    ],
+                    [
+                        "61:92"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 9,
+        "text": "Across the Organisation for Economic Co-operation and Development, there is housing insecurity, with half of adults in their 20s living with their parents. Education debt is growing exponentially, and last week the UK unveiled the highest figures for youth unemployment in more than a decade. So there are reasons to not be cheerful.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Across the Organisation for Economic Co-operation and Development, there is housing insecurity, with half of adults in their 20s living with their parents. Education debt is growing exponentially, and last week the UK unveiled the highest figures for youth unemployment in more than a decade."
+                    ],
+                    [
+                        "0:291"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "not be cheerful"
+                    ],
+                    [
+                        "317:332"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 10,
+        "text": "But does that mean Chinamaxxing is young people yearning for a China takeover? Seems a bit strong for a newly acquired interest in fruit teas.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "young people yearning for a China takeover"
+                    ],
+                    [
+                        "35:77"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "seems a bit strong"
+                    ],
+                    [
+                        "79:97"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 11,
+        "text": "It strikes me that if the right is this worried, and if we genuinely want to make sure young people don't give up on their nations, a much better use of time would be making sure those nations stop giving up on their young.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "the right"
+                    ],
+                    [
+                        "22:31"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "young people",
+                        "give up on their nations"
+                    ],
+                    [
+                        "87:99",
+                        "106:130"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "this worried"
+                    ],
+                    [
+                        "35:47"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "nations stop giving up on their young"
+                    ],
+                    [
+                        "185:222"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "much better use of time would be"
+                    ],
+                    [
+                        "134:166"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 12,
+        "text": "Instead of hectoring gen Z about not 'loving their country' as the rightwing press would like them to, offer them credible pathways to stability, and maybe a fair shot at surpassing – or at least matching – the standards of living enjoyed by their parents.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "rightwing press"
+                    ],
+                    [
+                        "67:82"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "gen Z"
+                    ],
+                    [
+                        "21:26"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "hectoring",
+                        "about not loving their country"
+                    ],
+                    [
+                        "11:20",
+                        "27:59"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 13,
+        "text": "Still, I am grateful that this Chinamaxxing debate has introduced me to the hilariously absurd logic of an aesthetic defection.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chinamaxxing debate"
+                    ],
+                    [
+                        "31:50"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "grateful"
+                    ],
+                    [
+                        "12:20"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "logic of an aesthetic defection"
+                    ],
+                    [
+                        "95:126"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "hilariously absurd"
+                    ],
+                    [
+                        "76:94"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 14,
+        "text": "From Chinamaxxers to the owners of French country-style kitchens: the quislings could be anywhere, apparently. Watch out for them – be vigilant.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chinamaxxers",
+                        "owners of French country-style kitchens"
+                    ],
+                    [
+                        "5:17",
+                        "25:64"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "Watch out",
+                        "be vigilant"
+                    ],
+                    [
+                        "111:120",
+                        "132:143"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    }
+]

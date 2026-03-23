@@ -1,0 +1,582 @@
+[
+    {
+        "sent_id": 0,
+        "text": "On the Future of Species by Adrian Woolfson review – are we on the verge of creating synthetic life?",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 1,
+        "text": "A genomic entrepreneur’s guide to the coming revolution in biology raises troubling questions about ethics and safety.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "coming revolution in biology"
+                    ],
+                    [
+                        "38:66"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "raises troubling questions about ethics and safety"
+                    ],
+                    [
+                        "67:117"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 2,
+        "text": "“The impulse to blend the anatomical traits of other species with those of humans appears to be hardwired into our imagination,” notes Adrian Woolfson in his intriguing and disturbing analysis of a biological revolution he believes is about to sweep the planet.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "analysis of a biological revolution"
+                    ],
+                    [
+                        "184:219"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "intriguing"
+                    ],
+                    [
+                        "158:168"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "analysis of a biological revolution"
+                    ],
+                    [
+                        "184:219"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "disturbing"
+                    ],
+                    [
+                        "173:183"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 3,
+        "text": "According to this forecast, species shaped by billions of years of natural selection will soon have to share their world with artificial versions designed and constructed by humans, with dramatic consequences.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "consequences"
+                    ],
+                    [
+                        "196:208"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "dramatic"
+                    ],
+                    [
+                        "187:195"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 4,
+        "text": "Woolfson’s descriptions can become overelaborate and laboured.He has a tendency to exaggerate the impact of the so-called second Genesis.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Woolfson’s descriptions"
+                    ],
+                    [
+                        "0:23"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "overelaborate and laboured"
+                    ],
+                    [
+                        "35:61"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 5,
+        "text": "But his arguments are compelling and his prose generally clear and straightforward.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "his arguments"
+                    ],
+                    [
+                        "4:17"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "are compelling"
+                    ],
+                    [
+                        "18:32"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "his prose"
+                    ],
+                    [
+                        "37:46"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "generally clear and straightforward"
+                    ],
+                    [
+                        "47:82"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 6,
+        "text": "Of course, many aspects of the coming biological revolution look far less rosy or comforting, and Woolfson catalogues these pitfalls too. ",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "many aspects of the coming biological revolution"
+                    ],
+                    [
+                        "11:59"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "look far less rosy or comforting"
+                    ],
+                    [
+                        "60:92"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "many aspects of the coming biological revolution"
+                    ],
+                    [
+                        "11:59"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "these pitfalls"
+                    ],
+                    [
+                        "118:132"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 7,
+        "text": "Arsenals of human-made pathogens could be assembled with ease by bioterrorists.",
+        "opinions": []
+    },
+    {
+        "sent_id": 8,
+        "text": "As benchtop DNA synthesisers and AI tools become ever more accessible, it will become harder to keep track of what is being created and by whom.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "benchtop DNA synthesisers and AI tools"
+                    ],
+                    [
+                        "3:41"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "become ever more accessible"
+                    ],
+                    [
+                        "42:69"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 9,
+        "text": "Could it be that alerting someone to AI is a kindness? A necessary evil? Insurance? They’ll feel like a doofus for a minute, but if that stops them being tricked in the future, it could be worth it.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "alerting someone to AI"
+                    ],
+                    [
+                        "17:39"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "could be worth it"
+                    ],
+                    [
+                        "180:197"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 10,
+        "text": "In an essay, written by an AI expert and investor, that recently went viral, Matt Shumer compared the way tech muggles currently think about AI to how we all reckoned that virus far away in China was nothing for us to worry about in February 2020",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "essay"
+                    ],
+                    [
+                        "6:11"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "viral"
+                    ],
+                    [
+                        "70:75"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 11,
+        "text": "Suddenly, watching footage of a kitten and a baby raccoon who are best friends, wear matching outfits, and have mastered an intricate dance routine, à la the band playing as the Titanic sinks, doesn’t seem so bad.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "watching footage"
+                    ],
+                    [
+                        "10:26"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "doesn’t seem so bad"
+                    ],
+                    [
+                        "193:212"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 12,
+        "text": "Feeling ashamed, I healthily distracted myself by turning my attention to my so-called friend.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "friend"
+                    ],
+                    [
+                        "87:93"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "so-called"
+                    ],
+                    [
+                        "77:86"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 13,
+        "text": "I can’t believe I hadn’t questioned any of it for a second. Talk about naive, foolish and out of touch.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "I hadn’t questioned any of it for a second"
+                    ],
+                    [
+                        "0:58"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "naive"
+                    ],
+                    [
+                        "71:76"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [ "AUTHOR" ],
+                    [ "NULL" ]
+                ],
+                "Target": [
+                    [
+                        "I hadn’t questioned any of it for a second"
+                    ],
+                    [
+                        "0:58"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "foolish"
+                    ],
+                    [
+                        "78:85"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [ "AUTHOR" ],
+                    [ "NULL" ]
+                ],
+                "Target": [
+                    [
+                        "I hadn’t questioned any of it for a second"
+                    ],
+                    [
+                        "0:58"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "out of touch"
+                    ],
+                    [
+                        "90:102"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 14,
+        "text": "Amused by that AI video of a dancing raccoon?",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "AI video of a dancing raccoon"
+                    ],
+                    [
+                        "15:44"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "Amused by"
+                    ],
+                    [
+                        "0:9"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    }
+]
