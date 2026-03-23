@@ -44,5 +44,5 @@ Few-shot (Qwen2.5-7B-Instruct):
 
 Использованные модели: 
 1. Qwen/Qwen2.5-7B-Instruct
-2. Qwen2.5-14B-Instruct
-3. mistralai/Mistral-Nemo-Instruct-2407
+2. Vikhrmodels/Vikhr-7B-instruct_0.3
+3. mistralai/Mistral-7B-Instruct-v0.3
