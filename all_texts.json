@@ -4204,33 +4204,6 @@
                 ],
                 "Polar_expression": [
                     [
-                        "comes courtesy"
-                    ],
-                    [
-                        "67:117"
-                    ]
-                ],
-                "Polarity": "POS"
-            },
-            {
-                "Source": [
-                    [
-                        "AUTHOR"
-                    ],
-                    [
-                        "NULL"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "artificial intelligence"
-                    ],
-                    [
-                        "29:52"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
                         "which has helped scientists solve previously intractable scientific problems"
                     ],
                     [
@@ -5219,19 +5192,25 @@
             {
                 "Source": [
                     [
-                        "workers",
+                        "workers"
+                    ],
+                    [
                         "19:26"
                     ]
                 ],
                 "Target": [
                     [
-                        "new technology",
+                        "new technology"
+                    ],
+                    [
                         "0:14"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "spooked",
+                        "spooked"
+                    ],
+                    [
                         "27:34"
                     ]
                 ],
@@ -5240,19 +5219,25 @@
             {
                 "Source": [
                     [
-                        "experts",
+                        "experts"
+                    ],
+                    [
                         "40:47"
                     ]
                 ],
                 "Target": [
                     [
-                        "new technology",
+                        "new technology"
+                    ],
+                    [
                         "0:14"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "creating an opening for a resurgence in worker power",
+                        "creating an opening for a resurgence in worker power"
+                    ],
+                    [
                         "57:109"
                     ]
                 ],
@@ -5316,13 +5301,17 @@
                 ],
                 "Target": [
                     [
-                        "artificial intelligence",
+                        "artificial intelligence"
+                    ],
+                    [
                         "157:180"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "the specter of",
+                        "the specter of"
+                    ],
+                    [
                         "142:156"
                     ]
                 ],
@@ -5339,13 +5328,17 @@
                 ],
                 "Target": [
                     [
-                        "artificial intelligence",
+                        "artificial intelligence"
+                    ],
+                    [
                         "157:180"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "looming over",
+                        "looming over"
+                    ],
+                    [
                         "181:193"
                     ]
                 ],
@@ -5388,19 +5381,25 @@
             {
                 "Source": [
                     [
-                        "the tech CEOs leading",
+                        "the tech CEOs leading"
+                    ],
+                    [
                         "4:25"
                     ]
                 ],
                 "Target": [
                     [
-                        "AI",
+                        "AI"
+                    ],
+                    [
                         "30:32"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "a glimmering unicorn",
+                        "a glimmering unicorn"
+                    ],
+                    [
                         "125:145"
                     ]
                 ],
@@ -5422,19 +5421,25 @@
             {
                 "Source": [
                     [
-                        "AUTHOR",
+                        "AUTHOR"
+                    ],
+                    [
                         "NULL"
                     ]
                 ],
                 "Target": [
                     [
-                        "remarks",
+                        "remarks"
+                    ],
+                    [
                         "65:72"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "hard to feel confident",
+                        "hard to feel confident"
+                    ],
+                    [
                         "25:47"
                     ]
                 ],
@@ -5443,19 +5448,25 @@
             {
                 "Source": [
                     [
-                        "AUTHOR",
+                        "AUTHOR"
+                    ],
+                    [
                         "NULL"
                     ]
                 ],
                 "Target": [
                     [
-                        "remarks",
+                        "remarks"
+                    ],
+                    [
                         "65:72"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "offhand ",
+                        "offhand "
+                    ],
+                    [
                         "57:64"
                     ]
                 ],
@@ -5471,19 +5482,25 @@
             {
                 "Source": [
                     [
-                        "Americans",
+                        "Americans"
+                    ],
+                    [
                         "139:148"
                     ]
                 ],
                 "Target": [
                     [
-                        "AI",
+                        "AI"
+                    ],
+                    [
                         "54:56"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "only 17% of Americans say AI will have a positive effect on the US",
+                        "only 17% of Americans say AI will have a positive effect on the US"
+                    ],
+                    [
                         "127:193"
                     ]
                 ],
