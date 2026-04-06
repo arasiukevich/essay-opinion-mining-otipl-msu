@@ -1,8 +1,9 @@
 # essay-opinion-mining-otipl-msu
-This project was created during the course "Project tasks of computational linguistics" in the second semester of the 2025-2026 academic year
-
 Тема проекта: "Извлечение мнений из аналитических статей и эссе"
 Авторы проекта: Анна Прокопьева, Анна Расюкевич, Алиса Рогачёва
+
+Проект был создан в рамках курса "Прикладные задачи компьютерной лингвистики" на 4 курсе отделения Фундаментальной и Прикладной Лингвистики МГУ имени М.В. Ломоносова в весеннем семестре 2025-2026 учебного года
+Преподаватель: Ксения Андреевна Студеникина
 
 Задачи проекта: 
 1. Проверка способностей LLM к извлечению кортежей мнений из аналитических статей и эссе, ранее не представленных или мало представленных в датасетах к данной задаче
@@ -11,6 +12,42 @@ This project was created during the course "Project tasks of computational lingu
 Использованный датасет:
 - Разметка статей из The Guardian по трём темам: политика, культура, наука и технологии.
 - Формат разметки взят из задачи извлечения мнений на соревновании RuOpinionNE-2024. По ссылке находится формат и пример разметки: https://codalab.lisn.upsaclay.fr/competitions/20244 
+
+Пример размеченного предложения датасета:
+    {
+        "sent_id": 4,
+        "text": "Woolfson’s descriptions can become overelaborate and laboured.He has a tendency to exaggerate the impact of the so-called second Genesis.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Woolfson’s descriptions"
+                    ],
+                    [
+                        "0:23"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "overelaborate and laboured"
+                    ],
+                    [
+                        "35:61"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
 
 Минимальная длина текста в датасете: 5
 Максимальная длина текста в датасете: 107
@@ -28,21 +65,17 @@ NEG: 95
 
 Методы промптинга:
 Zero-shot,
-Few-shot
+Few-shot (1-7 примеров)
 
 Zero-shot (Qwen2.5-7B-Instruct):
 Культура: 0.0273
 Наука и технологии: 0.0625
 Политика: 0.0924
 
-Few-shot (Qwen2.5-7B-Instruct):
-5 примеров: Культура 0.0448, Наука и технологии 0.0562 Политика 0.0919
-10 примеров: Культура 0.0000, Наука и технологии 0.0000 Политика 0.0000
-15 примеров: Культура 0.0000, Наука и технологии 0.0000 Политика 0.0000
+Таблицу со сравнением результатов двух моделей можно найти по ссылке: https://docs.google.com/spreadsheets/d/1firQvF--ocrFV1NfCBx31SoAVM2a7eF_9hYSAQgFgn0/edit?usp=sharing
 
-Для few-shot-промптинга примеры подбирались в зависимости от тематики, количество: 5, 10 или 15 примеров.
+Для few-shot-промптинга примеры подбирались в зависимости от тематики, количество: 1-7 примеров.
 
 Использованные модели: 
 1. Qwen/Qwen2.5-7B-Instruct
-2. Vikhrmodels/Vikhr-7B-instruct_0.3
-3. mistralai/Mistral-7B-Instruct-v0.3
+2. mistralai/Mistral-7B-Instruct-v0.3
