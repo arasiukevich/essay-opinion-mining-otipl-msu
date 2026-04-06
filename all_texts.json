@@ -1517,7 +1517,7 @@
     },
     {
         "sent_id": 71,
-        "text": "Add to this a cast that seemed to go to great lengths to steer away from the show’s zaniness the moment it ended (Zach Braff became an indie director, while Donald Faison and Sarah Chalke became most visible in drama) and you’re left with the horrible feeling that the magic might have dissipated in the past decade and a half.",
+        "text": "Add to this a cast that seemed to go to great lengths to steer away from the show’s zaniness the moment it ended (Zach Braff became an indie director, while Donald Faison and Sarah Chalke became most visible in drama) and you’re left with the horrible feeling that the magic might have dissipated in the past decade and a half. Luckily, this feeling vanishes about 15 seconds in, because the Scrubs revival is as Scrubsy as it gets.",
         "opinions": [
             {
             "Source": [["AUTHOR"], ["NULL"]],
@@ -1536,7 +1536,13 @@
             "Target": [["show's"], ["77:83"]],
             "Polar_expression": [["zaniness"], ["84:92"]],
             "Polarity": "NEG"
-            }            
+            },
+           {
+            "Source": [["AUTHOR"], ["NULL"]],
+            "Target": [["the Scrubs revival"], ["388:406"]],
+            "Polar_expression": [["Luckily, this feeling vanishes about 15 seconds in", "is as Scrubsy as it gets"], ["328:378", "407:431"]],
+            "Polarity": "POS"
+            }              
         ],
         "tag": "culture"
     },
@@ -5508,5 +5514,5508 @@
             }
         ],
         "tag": "science"
+    },
+    {
+        "sent_id": 196,
+        "text": "Obviously your enjoyment of this new run will depend on how much you liked Scrubs to begin with.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 197,
+        "text": "But if you were a fan, the new series will feel like the safest pair of hands imaginable.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["the new series"], ["23:37"]],
+                "Polar_expression": [["will feel like the safest pair of hands imaginable"], ["38:88"]],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 198,
+        "text": "We meet Braff’s JD deep into his new career as a concierge doctor, sipping tea while he delicately hands erection pill prescriptions to the wealthy and unruffled.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 199,
+        "text": "But a chance visit to Sacred Heart hospital leaves him remembering what he’d left behind.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 200,
+        "text": "Within 20 minutes he is back enmeshed as a senior member of staff there.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 201,
+        "text": "Other old characters are dealt with just as swiftly.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 202,
+        "text": "Chalke’s Elliot has shaken out a set of old resentments in little over an hour and – I’ll keep this vague to avoid spoilers – Faison’s Turk starts the first episode with a very serious set of new character traits that other shows could build their entire premise around, but manages to snap out of it in less time than it would take you to make a Pot Noodle.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 203,
+        "text": "However, Scrubs is a show about a teaching hospital, which means there needs to be an influx of newcomers for the oldies to teach.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 204,
+        "text": "Here the show is slightly less successful.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["the show"], ["5:13"]],
+                "Polar_expression": [["is slightly less successful"], ["14:41"]],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 205,
+        "text": "You’ll remember, of course, that this is the direction the original run of Scrubs attempted with its ill-fated Med School series.",
+        "opinions": [
+            {
+                "Source": [["NULL"], ["0:0"]],
+                "Target": [["Med School series"], ["111:128"]],
+                "Polar_expression": [["ill-fated"], ["101:110"]],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 206,
+        "text": "But let’s stay positive.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 207,
+        "text": "As of the first four episodes, the new young doctors of Scrubs are a bunch of one-trait nobodies but, given the paucity of screen time they are afforded, this is probably to be expected.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["the new young doctors of Scrubs"], ["31:96"]],
+                "Polar_expression": [["one-trait nobodies"], ["78:110"]],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 208,
+        "text": "There is every chance that they will evolve as the show wears on.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 209,
+        "text": "More excitingly, Vanessa Bayer gets a plum role as Sibby, a sort of HR chief tasked with reining in the more noughties-tinged aspects of the show.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["role as Sibby"], ["43:56"]],
+                "Polar_expression": [["More excitingly", "plum"], ["0:15", "38:42"]],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 210,
+        "text": "In the best possible way, her character often feels airdropped in from a different, weirder show.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["her character"], ["26:39"]],
+                "Polar_expression": [["In the best possible way"], ["0:24"]],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 211,
+        "text": "My guess is that she’ll run away with the whole thing before long.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 212,
+        "text": "It must also be said that one way in which Scrubs has moved with the times is in its mood.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 213,
+        "text": "The original show carried an air of exasperation about the US healthcare system; now this often tips into outright anger.",
+        "opinions": [
+            {
+                "Source": [["The original show"], ["0:17"]],
+                "Target": [["the US healthcare system"], ["55:79"]],
+                "Polar_expression": [["carried an air of exasperation about"], ["18:54"]],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [["The original show"], ["0:17"]],
+                "Target": [["the US healthcare system"], ["55:79"]],
+                "Polar_expression": [["outright anger"], ["106:120"]],
+                "Polarity": "NEG"
+            }            
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 214,
+        "text": "A recurring theme of the opening episodes is that characters are placed in danger – often mortal – due to a lack of affordable coverage.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 215,
+        "text": "Doctors either scramble to bend the rules to help them, or play by the rules and ignore them. Neither approach ends well.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 216,
+        "text": "There is even a new British doctor, whose entire purpose is to tell the American audience that prescription medication only costs a tenner.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 217,
+        "text": "And yet somehow these two poles – deliberately silly comedy and volcanic fury – manage to blend into a show that’s just as watchable as Scrubs ever was. May it run and run.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["a show"], ["101:107"]],
+                "Polar_expression": [["watchable", "May it run and run"], ["123:132", "153:171"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 218,
+        "text": "The so-called ‘pocket book’ sold in supermarkets is being phased out across the US, the latest sign of an ongoing shift in how people are choosing to read",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 219,
+        "text": "Shelly Romero has early memories of going to her local supermarket and picking pulp fiction off the shelves. “We were very working class; my mom was working two jobs sometimes,” she recalls. “The appeal of books being cheaper and smaller and able to be carried around was definitely a thing.”",
+        "opinions": [
+            {
+                "Source": [["Shelly Romero"], ["0:13"]],
+                "Target": [["books being cheaper and smaller and able to be carried around"], ["206:267"]],
+                "Polar_expression": [["The appeal of", "was definitely a thing"], ["192:205", "268:290"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 220,
+        "text": "For generations of readers, the gateway to literature was not a hushed library or a polished hardback but a wire spinner rack in a supermarket, pharmacy or railway station.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 221,
+        "text": "There, amid chewing gum and cigarettes, sat the mass-market paperback: squat, roughly 4in by 7in and cheap enough to be bought on a whim.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 222,
+        "text": "But the era of the “pocket book” is drawing to a close.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 223,
+        "text": "ReaderLink, the biggest book distributor in the US, announced recently that it would stop distributing mass-market paperbacks.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 224,
+        "text": "The decision follows years of plummeting sales, from 131m units in 2004 to 21m in 2024, and marks the end of a format that once democratised reading for the working class.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 225,
+        "text": "Romero, who grew up in the working-class, Latino and industrial city of Hialeah, Florida, says: “I don’t remember a bookstore. I had the library in Miami Springs across the bridge but in Hialeah around us, what was in walking distance because we didn’t have a car, was the Publix [supermarket] and sometimes we would get books from Goodwill [thrift store] as well. “They had that democratic aspect to them where you can just find them anywhere and it always felt like it was the pick ’n’ mix candy-type store where there is something here for everyone, whether it’s the Harlequin romance novel or something very pulpy like a sci-fi or horror novel that you could quickly get.”",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 226,
+        "text": "Now a New York-based literary agent, Romero owns an Amazon Kindle, which is roughly the same size as a mass-market paperback but can store thousands of books rather than one.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 227,
+        "text": "Still, she feels that something is being lost.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 228,
+        "text": "Whether it was the ink or the paper, they had a certain smell and it’s very nostalgic to me and many others.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["they had a certain smell"], ["37:61"]],
+                "Polar_expression": [["it’s very nostalgic"], ["66:85"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 229,
+        "text": "We’re definitely losing accessibility and that’s a huge thing right now, especially in this country, whether it’s libraries being defunded, book bannings happening, one person saying let’s get rid of 200 books because I don’t want my child to read diverse authors.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 230,
+        "text": "At the same time when you’re looking, for example, at kid lit, a 14- or 15-year-old is not going to be able to buy maybe a $19.99 or $21.99 hardcover YA book, especially if they’re working a minimum-wage or babysitting job, so it becomes fully inaccessible whereas they could have just gone and picked something up like a mass-market paperback.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 231,
+        "text": "That affordability was huge.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 232,
+        "text": "It’s sad to see.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["It’s"], ["0:4"]],
+                "Polar_expression": [["sad to see"], ["5:15"]],
+                "Polarity": "NEG"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 233,
+        "text": "While paperback books existed earlier, the revolution truly began in 1935 with Allen Lane’s Penguin Books in Britain, purportedly inspired by his frustration at finding nothing decent to read at a railway station.",
+        "opinions": [
+            {
+                "Source": [["Allen Lane"], ["79:89"]],
+                "Target": [["finding nothing decent to read at a railway station"], ["161:212"]],
+                "Polar_expression": [["frustration at"], ["146:160"]],
+                "Polarity": "NEG"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 234,
+        "text": "He introduced colour-coded genres such as orange for fiction, green for crime and sold them through non-bookstore outlets like WH Smith newsstands and tobacco shops.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 235,
+        "text": "The format migrated to the US in 1939 with Pocket Books, and took off during the second world war when the US military distributed millions of “Armed Services Editions” to troops.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 236,
+        "text": "This programme fostered a massive increase in literacy and an appetite for the format among returning veterans.",
+        "opinions": [
+            {
+                "Source": [["returning veterans"], ["92:110"]],
+                "Target": [["the format"], ["75:85"]],
+                "Polar_expression": [["an appetite for"], ["59:74"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 237,
+        "text": "Postwar paperbacks, often called “pulps”, were known for their lurid, racy cover art to attract commuters and casual shoppers.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 238,
+        "text": "This programme fostered a massive increase in literacy and an appetite for the format among returning veterans.",
+        "opinions": [
+            {
+                "Source": [["Paula Rabinowitz"], ["0:16"]],
+                "Target": [["the format's"], ["120:132"]],
+                "Polar_expression": [["genius"], ["133:139"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 239,
+        "text": "“It generated a new technological explosion of this form of mass reading,” she says. “The whole idea was to make the books no more expensive than a package of cigarettes at 25 cents and they were often sold outside of bookstores. I consider it one of the significant technological interventions, certainly of the 20th century.",
+        "opinions": [
+            {
+                "Source": [["she"], ["75:78"]],
+                "Target": [["it"], ["241:243"]],
+                "Polar_expression": [["consider", "one of the significant technological interventions"], ["232:240", "244:294"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 240,
+        "text": "It’s not like the atomic bomb but it was about accessible, democratising technology that was portable, that was ownable, so for the first time working people could have their own libraries, and that was transferable because since it only cost a quarter, you might give a book to a friend and pass it on.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 241,
+        "text": "It was something that was open to anybody because young people had a quarter; almost anybody had an extra quarter.”",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 242,
+        "text": "The distribution model was key.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 243,
+        "text": "Unlike hardcovers, which lived in bookstores, mass-market paperbacks were treated like magazines.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 244,
+        "text": "They were stocked by wholesalers who replenished racks in tens of thousands of non-book outlets.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 245,
+        "text": "This ubiquity meant that books were suddenly available to people who might never cross the threshold of a literary establishment.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 246,
+        "text": "This accessibility fuelled the golden age of the 1960s and 70s, creating cultural phenomena that are difficult to imagine in today’s fragmented media landscape.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 247,
+        "text": "Works such as Jaws (boosted by a Hollywood film adaptation), Valley of the Dolls and the novels of Stephen King sold many millions of copies.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 248,
+        "text": "But then came the decades of decline.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 249,
+        "text": "The causes are manifold: the rise of the “trade paperback” (bigger, higher quality, and more profitable), the consolidation of distributors and the digital revolution.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 250,
+        "text": "The smartphone has replaced the paperback as the default time-killer in airport lounges, and the e-reader offers a library in a pocket without the physical bulk.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 251,
+        "text": "Brenna Connor, director and book industry analyst for US books at Circana, points out that the very utility of the format – portability – has been usurped.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 252,
+        "text": "These smaller pocket-size formats made them inexpensive and they also made them portable, so ideal for people who were commuting and also ideal for soldiers during wartime.",
+        "opinions": [
+            {
+                "Source": [["people who were commuting"], ["103:128"]],
+                "Target": [["These smaller pocket-size formats made them inexpensive and they also made them portable"], ["0:88"]],
+                "Polar_expression": [["so ideal for"], ["90:102"]],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [["soldiers"], ["148:156"]],
+                "Target": [["These smaller pocket-size formats made them inexpensive and they also made them portable"], ["0:88"]],
+                "Polar_expression": [["ideal for"], ["138:147"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 253,
+        "text": "When you think about the needs of what brought the mass-market paperback book to the market and then fast-forward to 2026 and where we’re living in an age where it’s no longer as relevant today and that’s contributing to their demise.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 254,
+        "text": "Connor adds: “Thinking about how a mass-market paperback was easily portable and could fit in your pocket, well, we also have an infinite bookshelf that can now fit in our pocket with our cellphone, whether that’s accessing ebooks to read or even audiobooks to listen to. This digital shift is certainly impacting the overall decline in the mass-market paperback format.”",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 255,
+        "text": "There is also a shift in the book as an object.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 256,
+        "text": "In the age of “BookTok” (the bookish community on TikTok), readers increasingly prize books as aesthetic artifacts –hardcovers with sprayed edges and foil stamping – rather than disposable, yellowing paperbacks.",
+        "opinions": [
+            {
+                "Source": [["readers"], ["59:66"]],
+                "Target": [["books as aesthetic artifacts"], ["86:114"]],
+                "Polar_expression": [["prize"], ["80:85"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 257,
+        "text": "Bethanne Patrick, a book critic at the Los Angeles Times newspaper, notes that the economic logic of the mass-market format has simply evaporated. She says: “Now, there isn’t a need for the mass-market paperback because it isn’t that much cheaper to make than the trade paperback. That’s something a lot of people are missing.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 258,
+        "text": "I have seen comments on various social media sites and posts from librarians saying: ‘Look, you don’t understand. We know our patrons love them, but it actually isn’t cheaper for libraries to buy mass-market editions.’",
+        "opinions": [
+            {
+                "Source": [["our patrons"], ["122:133"]],
+                "Target": [["mass-market editions"], ["196:216"]],
+                "Polar_expression": [["love"], ["134:138"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 259,
+        "text": "They’re trying to get their patrons used to the trade paperbacks and it’s not always easy.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 260,
+        "text": "Mass-market paperbacks have a huge nostalgia and convenience factor going for them.",
+        "opinions": [
+            {
+                "Source": [["NULL"], ["0:0"]],
+                "Target": [["Mass-market paperbacks"], ["0:22"]],
+                "Polar_expression": [["a huge nostalgia and convenience factor"], ["28:67"]],
+                "Polarity": "POS"
+            }          
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 261,
+        "text": "But having grown up in the mass-market paperback generation, a time when “you could find great literature right next to a potboiler”, Patrick is aware of the cultural loss.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 262,
+        "text": "We all knew that the general public had a certain interest or some skin in the game for what was going on in books and reading and now we’ve lost some of that to people who are watching videos or gaming.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 263,
+        "text": "I don’t know how to win them back to the printed page. I wish that I did.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 264,
+        "text": "Mass-market paperbacks have a huge nostalgia and convenience factor going for them.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["they’re not going to be coming back to mass-market printed pages"], ["24:88"]],
+                "Polar_expression": [["It’s a shame"], ["90:102"]],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["it"], ["111:113"]],
+                "Polar_expression": [["so easy"], ["118:125"]],
+                "Polarity": "POS"
+            }        
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 265,
+        "text": "The writing is on the wall.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 266,
+        "text": "The airport retail company Hudson began phasing out mass-market books from its convenience stores last year, limiting them only to a few dedicated bookstore locations.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 267,
+        "text": "Even major properties such as the Bridgerton series are no longer being replenished in the mass-market format; once current stock is exhausted, they will only be available in trade paperback or hardcover form.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 268,
+        "text": "For Steve Zacharius, the chief executive of Kensington Publishing, the biggest independent publisher of the format in the US, the decline is not just about business.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 269,
+        "text": "His father founded the company in 1974, initially publishing only mass-market titles.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 270,
+        "text": "Zacharius says: “When January came around, my production manager, who’s been here 35 years, called me and said: ‘‘This is sad, it’s the first month we don’t have a mass-market book ever.’",
+        "opinions": [
+            {
+                "Source": [["my production manager"], ["43:64"]],
+                "Target": [["it’s the first month we don’t have a mass-market book ever."], ["127:186"]],
+                "Polar_expression": [["This is sad"], ["114:125"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 271,
+        "text": "When the company started, we were entirely mass market.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 272,
+        "text": "We didn’t have hardcover or trade paperback when my father started in ’74; it was entirely mass market and the print runs for each book were enormous.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 273,
+        "text": "I was looking over sales history at how the numbers kept declining from back in 1994 and then kept going down a little bit, a little bit, a little bit each year.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 274,
+        "text": "The market spoke, consumers spoke that they wanted a change in format.",
+        "opinions": [
+            {
+                "Source": [["The market"], ["0:10"]],
+                "Target": [["a change in format"], ["51:69"]],
+                "Polar_expression": [["wanted"], ["44:50"]],
+                "Polarity": "POS"
+            },  
+            {
+                "Source": [["consumers"], ["18:27"]],
+                "Target": [["a change in format"], ["51:69"]],
+                "Polar_expression": [["wanted"], ["44:50"]],
+                "Polarity": "POS"
+            }  
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 275,
+        "text": "The Dyers’ Caravan Park review – this lazy, shambolic show does nothing to help the real people involved",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["The Dyers’ Caravan Park"], ["0:23"]],
+                "Polar_expression": [["lazy, shambolic"], ["38:53"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 276,
+        "text": "Father and daughter, Danny and Dani Dyer, are supposed to be reviving a caravan park that’s seen better days.",
+        "opinions": [
+            {
+                "Source": [["NULL"], ["0:0"]],
+                "Target": [["a caravan park"], ["70:84"]],
+                "Polar_expression": [["seen better days"], ["92:108"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 277,
+        "text": "Instead they’re mucking about and cracking infantile jokes – while the owners look desperately on",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["jokes"], ["53:58"]],
+                "Polar_expression": [["infantile"], ["43:52"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 278,
+        "text": "Like him or loathe him – I like him – Danny Dyer rarely misfires.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["Danny Dyer"], ["38:48"]],
+                "Polar_expression": [["I like him"], ["25:35"]],
+                "Polarity": "POS"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 279,
+        "text": "The geezer “act” is an act only insofar as every celebrity is an act; he’s a more-than-competent actor and he has presented some decent documentaries (especially his most recent one, about modern masculinity).",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["Danny Dyer"], ["38:48"]],
+                "Polar_expression": [["I like him"], ["25:35"]],
+                "Polarity": "POS"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 280,
+        "text": "The geezer “act” is an act only insofar as every celebrity is an act; he’s a more-than-competent actor and he has presented some decent documentaries (especially his most recent one, about modern masculinity).",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["he"], ["70:72"]],
+                "Polar_expression": [["a more-than-competent actor and he has presented some decent documentaries"], ["77:149"]],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["documentaries"], ["136:149"]],
+                "Polar_expression": [["decent"], ["129:135"]],
+                "Polarity": "POS"
+            }  
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 281,
+        "text": "The Dyers’ Caravan Park, however, is a pile of rubbish.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["The Dyers’ Caravan Park"], ["0:23"]],
+                "Polar_expression": [["a pile of rubbish"], ["37:54"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 282,
+        "text": "The set-up is pretty simple.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 283,
+        "text": "Danny loves caravan parks.",
+        "opinions": [
+            {
+                "Source": [["Danny"], ["0:5"]],
+                "Target": [["caravan parks"], ["12:25"]],
+                "Polar_expression": [["loves"], ["6:11"]],
+                "Polarity": "POS"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 284,
+        "text": "Danny loves caravan parks.",
+        "opinions": [
+            {
+                "Source": [["He"], ["0:2"]],
+                "Target": [["“a sense of community that is severely lacking in today’s world”"], ["116:180"]],
+                "Polar_expression": [["enjoying"], ["107:115"]],
+                "Polarity": "POS"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 285,
+        "text": "He spent many happy holidays in them in his youth, surrounded by extended family and quickly made friends, enjoying “a sense of community that is severely lacking in today’s world”.",
+        "opinions": [
+            {
+                "Source": [["He"], ["0:2"]],
+                "Target": [["“a sense of community that is severely lacking in today’s world”"], ["116:180"]],
+                "Polar_expression": [["enjoying"], ["107:115"]],
+                "Polarity": "POS"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 286,
+        "text": "He spent many happy holidays in them in his youth, surrounded by extended family and quickly made friends, enjoying “a sense of community that is severely lacking in today’s world”.",
+        "opinions": [
+            {
+                "Source": [["he"], ["3:5"]],
+                "Target": [["Priory Hill"], ["50:61"]],
+                "Polar_expression": [["has invested in"], ["6:21"]],
+                "Polarity": "POS"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 287,
+        "text": "The six-part series will follow him and his daughter Dani through their first year at whatever it is they’re playing at.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 288,
+        "text": "Because playing at it is what they surely are.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 289,
+        "text": "The series begins with Danny missing the opening of the season.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 290,
+        "text": "Everyone – owner Jimi, who has been running the business with his sister Alex since their father died three years ago, the longstanding, hardworking management team (site directors Paul and Darren, site manager Mark, the park’s residents) – had been expecting their new celebrity investor and figurehead, but it doesn’t seem to even have occurred to him to turn up.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 291,
+        "text": "He was at the Brit awards instead.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 292,
+        "text": "“Lot of disappointed people, to be honest,” says Jimi, standing in the February rain amid the chalets and vans he is trying to keep hold of as a viable business long into the age of cheap flights and package deals to warmer, sunnier climes.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 293,
+        "text": "A half-hearted apology to the team and turning on the charm at a hastily called meeting with the residents in an attempt at damage limitation doesn’t go as well as he clearly assumes it will.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 294,
+        "text": "Jimi, Paul, Darren and Mark sit stony-faced in the front row and the residents are only a little more willing to forgive. Dyer gets the latter onside by asking for suggestions for improvements to the site which – as inevitably as rain follows rain during the opening of caravan season – turns into little more than vitriolic criticism of the current regime.",
+        "opinions": [
+            {
+                "Source": [["Jimi, Paul, Darren and Mark"], ["0:27"]],
+                "Target": [["Dyer"], ["122:126"]],
+                "Polar_expression": [["stony-faced"], ["32:43"]],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [["the residents"], ["64:78"]],
+                "Target": [["Dyer"], ["122:126"]],
+                "Polar_expression": [["a little more willing to forgive", "onside"], ["88:120", "143:149"]],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [["the residents"], ["64:78"]],
+                "Target": [["the current regime"], ["338:356"]],
+                "Polar_expression": [["little more than vitriolic criticism"], ["298:334"]],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 295,
+        "text": "Who are, lest we forget, sitting in the front row.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 296,
+        "text": "Dyer, with all the optimism of the ignorant, promises them more or less everything.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["Dyer"], ["0:4"]],
+                "Polar_expression": [["ignorant"], ["35:43"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 297,
+        "text": "Jimi et al later explain that the “broken” night lights on the site were removed after people complained about teenagers gathering beneath them, that the suggested indoor pool (to go with the existing outdoor one) would cost an unfindable minimum of £250,000, and that a football pitch or adventure playground for the kids has long been understood to be desirable – but no one ever wants such things outside their chalet or van.",
+        "opinions": [
+            {
+                "Source": [["people"], ["87:93"]],
+                "Target": [["teenagers gathering beneath them"], ["111:143"]],
+                "Polar_expression": [["complained"], ["94:104"]],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [["NULL"], ["0:0"]],
+                "Target": [["a football pitch or adventure playground for the kids"], ["269:322"]],
+                "Polar_expression": [["desirable"], ["354:363"]],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [["NULL"], ["0:0"]],
+                "Target": [["such things outside their chalet or van"], ["388:427"]],
+                "Polar_expression": [["no one ever wants"], ["370:387"]],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 298,
+        "text": "It continues in much the same bleak vein for most of the two episodes available for review.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["It"], ["0:2"]],
+                "Polar_expression": [["continues in much the same bleak vein"], ["3:40"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 299,
+        "text": "Jimi and the team simply have too much to lose to find Dyer’s incompetence or naivety as funny or charming as they are supposed to, and upon which the success of this kind of show ultimately depends.",
+        "opinions": [
+            {
+                "Source": [["Jimi and the team"], ["0:17"]],
+                "Target": [["Dyer’s incompetence or naivety"], ["55:85"]],
+                "Polar_expression": [["have too much to lose to find", "as funny or charming"], ["25:54", "86:106"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 300,
+        "text": "Alex still cries when she talks about her father, how much he loved the park he set up, the people in it and the success he made of it (in the heyday of the industry, not in a post-Covid hellscape in which 38 pitches are lying empty and losing £150,000 a year).",
+        "opinions": [
+            {
+                "Source": [["her father"], ["38:48"]],
+                "Target": [["the park he set up, the people in it and the success he made of it"], ["68:134"]],
+                "Polar_expression": [["loved"], ["62:67"]],
+                "Polarity": "POS"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 301,
+        "text": "Dani, meanwhile, is busy saging a dirty caravan instead of cleaning it, while Danny is chatting to chalet and caravan owners instead of taking charge or working on anything, and his three site-saving ideas are each more stupid than the last.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["his three site-saving ideas"], ["178:205"]],
+                "Polar_expression": [["each more stupid than the last"], ["210:240"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 302,
+        "text": "Dani, meanwhile, is busy saging a dirty caravan instead of cleaning it, while Danny is chatting to chalet and caravan owners instead of taking charge or working on anything, and his three site-saving ideas are each more stupid than the last.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["posters"], ["98:105"]],
+                "Polar_expression": [["indecipherably complicated"], ["47:73"]],
+                "Polarity": "NEG"
+            }    
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 303,
+        "text": "The second is to shoot a video on Dani’s phone advertising the new luxury caravan for sale, complete with so much swearing that the team don’t want it put out – but they’re too late, it’s already online.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 304,
+        "text": "And the third is having a sports day to unite the disparate halves of the camp (the chalet dwellers on the original site, the caravan owners in the newer bit) – by having them compete against each other, and at a cost of £10,000 for a chaotic assemblage of space hoppers, bunting, plastic eggs that won’t stay on the spoons in the wind, and a selection of dismal prizes.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["assemblage"], ["243:253"]],
+                "Polar_expression": [["chaotic"], ["235:242"]],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["prizes"], ["363:369"]],
+                "Polar_expression": [["dismal"], ["356:362"]],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 305,
+        "text": "It all feels as lazy, shambolic and contemptuous of the unfortunate people involved – whose actual livelihoods are at stake – as the programme itself does.",
+        "opinions": [
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["the programme itself"], ["129:149"]],
+                "Polar_expression": [["lazy, shambolic and contemptuous of the unfortunate people involved"], ["16:83"]],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [["AUTHOR"], ["NULL"]],
+                "Target": [["It"], ["0:2"]],
+                "Polar_expression": [["lazy, shambolic and contemptuous of the unfortunate people involved"], ["16:83"]],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 306,
+        "text": "Dyer at one point likens his undertaking to Clarkson’s farm, Richard Hammond’s workshop or Jamie Oliver’s campaign for school dinners.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 307,
+        "text": "It’s actually more like the childhood anecdote he tells about the time he shared a bath with his brother.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 308,
+        "text": "He shat in it, and pushed it out of the way so his brother got the blame.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 309,
+        "text": "In these shows, though, the deadliest threat invariably comes from within the bunker – sometimes even from within the “nuclear” family at its heart.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the bunker"
+                    ],
+                    [
+                        "74:84"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "the deadliest threat invariably comes from within"
+                    ],
+                    [
+                        "24:73"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 310,
+        "text": "Unlike Clive Owen’s Andy Ronson in A Murder at the End of the World, saving a few hand-picked individuals isn’t enough for this girl-boss-cum-tech-bro.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "this girl-boss-cum-tech-bro"
+                    ],
+                    [
+                        "123:150"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "saving a few hand-picked individuals"
+                    ],
+                    [
+                        "69:105"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "isn’t enough"
+                    ],
+                    [
+                        "106:118"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "this girl-boss-cum-tech-bro"
+                    ],
+                    [
+                        "123:150"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "girl-boss-cum-tech-bro"
+                    ],
+                    [
+                        "128:150"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 311,
+        "text": "Instead, Redmond has gone a step further, building “the world’s largest underground city”, an ersatz all-American suburb, accommodating 25,000 people while a climate catastrophe plays out above their heads.",
+        "opinions": [],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 312,
+        "text": "The nukes believed to have detonated topside never went off and the world outside the bunker proves more nuanced than the post-apocalyptic wasteland the survivors below imagined.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "the survivors below"
+                    ],
+                    [
+                        "149:168"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the world outside the bunker"
+                    ],
+                    [
+                        "64:92"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "the post-apocalyptic wasteland",
+                        "imagined"
+                    ],
+                    [
+                        "118:148",
+                        "169:177"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 313,
+        "text": "“One of the beautiful things about our show is we don’t have this totally dystopian experience of ‘the end of days is the worst of days,’” says Marshall. “We’re watching what happens when folks are down but they’re not out, and how their resilience keeps them alive.”",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Marshall"
+                    ],
+                    [
+                        "144:152"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "our show"
+                    ],
+                    [
+                        "35:43"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "One of the beautiful things about"
+                    ],
+                    [
+                        "1:34"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "Marshall"
+                    ],
+                    [
+                        "144:152"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "we don’t have this totally dystopian experience of ‘the end of days is the worst of days,’"
+                    ],
+                    [
+                        "47:137"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "One of the beautiful things",
+                        "is"
+                    ],
+                    [
+                        "1:28",
+                        "44:46"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 314,
+        "text": "‘We’re losing accessibility’: the US says goodbye to the mass-market paperback",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the US says goodbye to the mass-market paperback"
+                    ],
+                    [
+                        "30:78"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "We’re losing accessibility"
+                    ],
+                    [
+                        "1:27"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 315,
+        "text": "The show’s most fascinating character is “the Ghoul” (Walton Goggins), who straddles the apocalyptic divide, since we see him both before the nuclear Armageddon – when he was “pinko” Hollywood actor Cooper Howard – and 200 years later, as a noseless undead gunslinger who relies on medication to stop himself turning “feral”.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "“the Ghoul”"
+                    ],
+                    [
+                        "41:52"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "The show’s most fascinating character is"
+                    ],
+                    [
+                        "0:40"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "“the Ghoul”"
+                    ],
+                    [
+                        "41:52"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "turning “feral”"
+                    ],
+                    [
+                        "309:324"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "relies on medication to stop himself"
+                    ],
+                    [
+                        "272:308"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 316,
+        "text": "It’s in the wasteland that deep truths are revealed, and the wisdom passed down by a generation of Bunker-Boomers (epitomised by Kyle MacLachlan’s mid-level exec Hank MacLean) is exposed as a tissue of lies and corruption.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the wisdom passed down by a generation of Bunker-Boomers"
+                    ],
+                    [
+                        "57:113"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "is exposed as a tissue of lies and corruption"
+                    ],
+                    [
+                        "176:221"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "culture"
+    },
+    {
+        "sent_id": 317,
+        "text": "They’re aesthetically, morally and politically defecting to another superpower.”",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "They're"
+                    ],
+                    [
+                        "0:7"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "aesthetically, morally and politically defecting to another superpower"
+                    ],
+                    [
+                        "8:56"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 318,
+        "text": "For sure, young Brits share with American peers a feeling of frustration and disillusionment that their countries are no longer places they feel secure.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "young Brits",
+                        "American peers"
+                    ],
+                    [
+                        "10:21",
+                        "33:47"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "their countries"
+                    ],
+                    [
+                        "98:113"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "frustration and disillusionment"
+                    ],
+                    [
+                        "61:92"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 319,
+        "text": "Across the Organisation for Economic Co-operation and Development, there is housing insecurity, with half of adults in their 20s living with their parents. Education debt is growing exponentially, and last week the UK unveiled the highest figures for youth unemployment in more than a decade. So there are reasons to not be cheerful.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Across the Organisation for Economic Co-operation and Development, there is housing insecurity, with half of adults in their 20s living with their parents. Education debt is growing exponentially, and last week the UK unveiled the highest figures for youth unemployment in more than a decade."
+                    ],
+                    [
+                        "0:291"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "not be cheerful"
+                    ],
+                    [
+                        "317:332"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 320,
+        "text": "But does that mean Chinamaxxing is young people yearning for a China takeover? Seems a bit strong for a newly acquired interest in fruit teas.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "young people yearning for a China takeover"
+                    ],
+                    [
+                        "35:77"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "seems a bit strong"
+                    ],
+                    [
+                        "79:97"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 321,
+        "text": "It strikes me that if the right is this worried, and if we genuinely want to make sure young people don't give up on their nations, a much better use of time would be making sure those nations stop giving up on their young.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "the right"
+                    ],
+                    [
+                        "22:31"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "young people",
+                        "give up on their nations"
+                    ],
+                    [
+                        "87:99",
+                        "106:130"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "this worried"
+                    ],
+                    [
+                        "35:47"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "nations stop giving up on their young"
+                    ],
+                    [
+                        "185:222"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "much better use of time would be"
+                    ],
+                    [
+                        "134:166"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 322,
+        "text": "Instead of hectoring gen Z about not 'loving their country' as the rightwing press would like them to, offer them credible pathways to stability, and maybe a fair shot at surpassing – or at least matching – the standards of living enjoyed by their parents.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "rightwing press"
+                    ],
+                    [
+                        "67:82"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "gen Z"
+                    ],
+                    [
+                        "21:26"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "hectoring",
+                        "about not loving their country"
+                    ],
+                    [
+                        "11:20",
+                        "27:59"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 323,
+        "text": "Still, I am grateful that this Chinamaxxing debate has introduced me to the hilariously absurd logic of an aesthetic defection.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chinamaxxing debate"
+                    ],
+                    [
+                        "31:50"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "grateful"
+                    ],
+                    [
+                        "12:20"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "logic of an aesthetic defection"
+                    ],
+                    [
+                        "95:126"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "hilariously absurd"
+                    ],
+                    [
+                        "76:94"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 324,
+        "text": "From Chinamaxxers to the owners of French country-style kitchens: the quislings could be anywhere, apparently. Watch out for them – be vigilant.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chinamaxxers",
+                        "owners of French country-style kitchens"
+                    ],
+                    [
+                        "5:17",
+                        "25:64"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "Watch out",
+                        "be vigilant"
+                    ],
+                    [
+                        "111:120",
+                        "132:143"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 325,
+        "text": "Arsenals of human-made pathogens could be assembled with ease by bioterrorists.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 326,
+        "text": "As benchtop DNA synthesisers and AI tools become ever more accessible, it will become harder to keep track of what is being created and by whom.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "benchtop DNA synthesisers and AI tools"
+                    ],
+                    [
+                        "3:41"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "become ever more accessible"
+                    ],
+                    [
+                        "42:69"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 327,
+        "text": "Could it be that alerting someone to AI is a kindness? A necessary evil? Insurance? They’ll feel like a doofus for a minute, but if that stops them being tricked in the future, it could be worth it.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "alerting someone to AI"
+                    ],
+                    [
+                        "17:39"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "could be worth it"
+                    ],
+                    [
+                        "180:197"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 328,
+        "text": "In an essay, written by an AI expert and investor, that recently went viral, Matt Shumer compared the way tech muggles currently think about AI to how we all reckoned that virus far away in China was nothing for us to worry about in February 2020",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "essay"
+                    ],
+                    [
+                        "6:11"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "viral"
+                    ],
+                    [
+                        "70:75"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 329,
+        "text": "Suddenly, watching footage of a kitten and a baby raccoon who are best friends, wear matching outfits, and have mastered an intricate dance routine, à la the band playing as the Titanic sinks, doesn’t seem so bad.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "watching footage"
+                    ],
+                    [
+                        "10:26"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "doesn’t seem so bad"
+                    ],
+                    [
+                        "193:212"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 330,
+        "text": "Feeling ashamed, I healthily distracted myself by turning my attention to my so-called friend.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "friend"
+                    ],
+                    [
+                        "87:93"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "so-called"
+                    ],
+                    [
+                        "77:86"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 331,
+        "text": "I can’t believe I hadn’t questioned any of it for a second. Talk about naive, foolish and out of touch.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "I hadn’t questioned any of it for a second"
+                    ],
+                    [
+                        "0:58"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "naive"
+                    ],
+                    [
+                        "71:76"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [ "AUTHOR" ],
+                    [ "NULL" ]
+                ],
+                "Target": [
+                    [
+                        "I hadn’t questioned any of it for a second"
+                    ],
+                    [
+                        "0:58"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "foolish"
+                    ],
+                    [
+                        "78:85"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [ "AUTHOR" ],
+                    [ "NULL" ]
+                ],
+                "Target": [
+                    [
+                        "I hadn’t questioned any of it for a second"
+                    ],
+                    [
+                        "0:58"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "out of touch"
+                    ],
+                    [
+                        "90:102"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 332,
+        "text": "Amused by that AI video of a dancing raccoon?",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "AI video of a dancing raccoon"
+                    ],
+                    [
+                        "15:44"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "Amused by"
+                    ],
+                    [
+                        "0:9"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 333,
+        "text": "“It is creating an opportunity,” Sarita Gupta, the Ford Foundation’s vice-president of US programs and co-author of The Future We Need: Organizing for a Better Democracy in the Twenty-First Century, told me.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 334,
+        "text": "“When you have a young Silicon Valley software engineer realize that their performance is tracked or undermined by the same logic as a working-class warehouse picker, class divisions dissolve, and larger working-class movements for dignity are possible. That is what we’re starting to see.” People across industries and income brackets are anxious and frustrated, quite like they were when the Covid pandemic placed punishing demands on frontline workers and erased the boundaries between work and life for everyone else.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "People across industries and income brackets"
+                    ],
+                    [
+                        "291:335"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "their performance is tracked or undermined by the same logic as a working-class warehouse picker"
+                    ],
+                    [
+                        "69:165"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "anxious and frustrated"
+                    ],
+                    [
+                        "340:362"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 335,
+        "text": "Those struggles prompted power shifts: at the same time that workers led unionization efforts at Amazon warehouses and Starbucks locations around the US, the Great Resignation saw a record number of employees quit their jobs, and the ones who remained in the workforce began negotiating for and gaining better pay and conditions. “It was not a pretty time for a lot of workers. And so part of the resurgence of labor organizing from that period of time was in response to a lot of fears,” Kresge said.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Kresge"
+                    ],
+                    [
+                        "489:500"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "time that workers led unionization efforts at Amazon warehouses and Starbucks locations around the US, the Great Resignation saw a record number of employees quit their jobs, and the ones who remained in the workforce began negotiating for and gaining better pay and conditions"
+                    ],
+                    [
+                        "51:328"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "It was not a pretty time"
+                    ],
+                    [
+                        "331:355"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 336,
+        "text": "She also sees the rise of AI as an opening for the labor movement to regain some of the power it has lost after decades of attacks from employers.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "She"
+                    ],
+                    [
+                        "0:3"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the rise of AI"
+                    ],
+                    [
+                        "14:28"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "an opening for the labor movement to regain some of the power it has lost"
+                    ],
+                    [
+                        "32:105"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 337,
+        "text": "“I’m hopeful about the opportunity for technology to lift up some of the issues that have been under way in our economy for decades … in terms of how workers are treated and how we are distributing the rewards of productivity,” she said.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 338,
+        "text": "Conditions for workers have been rough for a long while now.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Conditions for workers"
+                    ],
+                    [
+                        "0:22"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "rough"
+                    ],
+                    [
+                        "33:38"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 339,
+        "text": "“Over time, unions have lost collective bargaining power, and a lot of that is due to the lack of laws that we need and enforcement of laws,” Gupta said. ",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 340,
+        "text": "“For four decades, productivity soared while wages stayed flat, and unionization hit historic lows.”",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 341,
+        "text": "In 2025, only 9.9% of US workers were union members – the same percentage as 2024, but still the lowest numbers in almost 40 years.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 342,
+        "text": "Today, the advent of AI is drawing the world’s attention to the extreme imbalance of power between employers and their employees – and people are getting worked up. Even if the outcomes are still undetermined, that’s a glimmer of possibility in bleak times.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the advent of AI"
+                    ],
+                    [
+                        "7:23"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "worked up"
+                    ],
+                    [
+                        "154:163"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the advent of AI"
+                    ],
+                    [
+                        "7:23"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "a glimmer of possibility"
+                    ],
+                    [
+                        "217:241"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "times"
+                    ],
+                    [
+                        "7:23"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "bleak"
+                    ],
+                    [
+                        "251:256"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 343,
+        "text": "AI is still a nascent technology.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 344,
+        "text": "Many of the predictions about what it will be capable of and how it will transform labor and the economy are just that – predictions.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 345,
+        "text": "The question of worker power in the age of AI hasn’t been decided yet, even if billionaire CEOs with a vested interest in the unregulated dominance of AI keep implying that it has.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 346,
+        "text": "“There is a concerted effort among many tech leaders to basically create mystification around AI as a tactic, to a large extent, to disempower workers, policymakers, and anyone who might be critical of the growing concentration of funding and resources in our society toward this goal,” Kresge told me.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 347,
+        "text": "In other words, take what these billionaires say with a grain of salt.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 348,
+        "text": "The rise of AI is already transforming society, the economy and our relationship to work, but a lot of these shifts are anticipatory, based on our belief in the potential of a technology that’s still being built.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 349,
+        "text": "“We have to always remind ourselves that the direction of technology is a choice, right? We can use AI to build a surveillance economy that squeezes every drop of value out of a worker, or we can use it to build an era of shared prosperity,” Gupta said.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 350,
+        "text": "“We know if technology were designed and deployed and governed by the people doing the work, AI wouldn’t be such a threat.”",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "AI"
+                    ],
+                    [
+                        "93:95"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "such a threat"
+                    ],
+                    [
+                        "108:121"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 351,
+        "text": "China’s dancing robots: how worried should we be?",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 352,
+        "text": "Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "martial arts performance"
+                    ],
+                    [
+                        "13:25"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "eye-catching"
+                    ],
+                    [
+                        "0:12"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 353,
+        "text": "Dancing humanoid robots took centre stage on Monday during the annual China Media Group’s Spring Festival Gala, China’s most-watched official television broadcast.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "official television broadcast"
+                    ],
+                    [
+                        "133:162"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "most-watched"
+                    ],
+                    [
+                        "120:132"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 354,
+        "text": "They lunged and backflipped (landing on their knees), they spun around and jumped. Not one fell over.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 355,
+        "text": "The display was impressive, but prompted some to wonder: if robots can now dance and perform martial arts, what else can they do?",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "The display"
+                    ],
+                    [
+                        "0:11"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "impressive"
+                    ],
+                    [
+                        "16:26"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 356,
+        "text": "Experts have mixed opinions, with some saying the robots had limitations and that the display should be viewed through a lens of state propaganda.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the robots"
+                    ],
+                    [
+                        "46:56"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "had limitations"
+                    ],
+                    [
+                        "57:72"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 357,
+        "text": "Developed by several Chinese robotics firms, the robots performed a range of intricate stunts, including kung fu, comedy sketches and choreographed dance moves alongside human performers.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 358,
+        "text": "Clips circulating online quickly drew comparisons with last year’s lunar new year broadcast, which also featured dancing robots but with noticeably simpler movements.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 359,
+        "text": "Kyle Chan, an expert in China’s technology development at Brookings Institution, a policy organisation in Washington DC, said Beijing uses these public robot performances to “dazzle domestic and international audiences with China’s technological prowess”.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 360,
+        "text": "“Unlike AI models or industrial equipment, humanoid robots are highly visible examples of China’s technological leadership that general audiences can see on their phones or televisions,” he said.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 361,
+        "text": "Pointing to intensifying competition in the tech space between China and the US, Chan added: “While China and the US are neck-and-neck on AI, humanoid robots are an area where China can claim to be ahead of the US, particularly in terms of scaling up production.”",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 362,
+        "text": "Georg Stieler, the head of robotics and automation at the global technology consulting firm Stieler Technology and Marketing, also emphasised the symbolism of China’s prime time broadcast.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 363,
+        "text": "“What distinguishes the gala from comparable events elsewhere is the directness of the pipeline from industrial policy to prime-time spectacle,” Stieler said in a statement.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 364,
+        "text": "Comparing this year’s performances with last year’s – when viewers saw “fundamentally a single choreographic mode” with limited motions including walking, twisting and kicking – Stieler said one key signal of China’s robot progress is “the ability to run large numbers of near-identical humanoids in synchronised motion with stable gaits and consistent joint behaviour”.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Stieler"
+                    ],
+                    [
+                        "178:185"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "last year’s"
+                    ],
+                    [
+                        "40:51"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "fundamentally a single choreographic mode"
+                    ],
+                    [
+                        "71:114"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "Stieler"
+                    ],
+                    [
+                        "178:185"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "this year’s performances"
+                    ],
+                    [
+                        "10:34"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "the ability to run large numbers of near-identical humanoids in synchronised motion with stable gaits and consistent joint behaviour"
+                    ],
+                    [
+                        "235:369"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 365,
+        "text": "“These dance motions involve very little environmental perception and are essentially imitation learning plus a balance-keeping controller. That has little bearing on reliability in unstructured environments, a prerequisite for factory-grade deployment. Also the progress in dexterity is not as fast as in locomotion,” he added.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 366,
+        "text": "The unveiling of China’s latest generation of robots underscores the country’s broader technological ambitions.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 367,
+        "text": "By the end of 2024, China had registered 451,700 smart robotics companies, with a total capital of 6.44tn yuan (approximately $932.16bn), according to state data. Major government projects such as Made in China 2025 and the 14th Five-Year Plan, have made robotics and AI key Beijing priorities.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 368,
+        "text": "Morgan Stanley projects that China’s humanoid sales will more than double to 28,000 units in 2026; and Elon Musk has said he expects his biggest competitor to be Chinese companies as he pivots Tesla toward a focus on embodied AI and its flagship humanoid Optimus.",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 369,
+        "text": "“People outside China underestimate China, but China is an ass-kicker next level,” Musk said last month.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Musk"
+                    ],
+                    [
+                        "83:87"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "China"
+                    ],
+                    [
+                        "47:52"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "an ass-kicker next level"
+                    ],
+                    [
+                        "56:80"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "science"
+    },
+    {
+        "sent_id": 370,
+        "text": "Marina Zhang, a technology professor at the University of Technology Sydney, said that such a visible showcase likely hints at a new phase in China’s manufacturing masterplan, “where robotics becomes a linchpin in the shift from low-cost assembly to high-end, smart manufacturing.”",
+        "opinions": [],
+        "tag": "science"
+    },
+    {
+        "sent_id": 371,
+        "text": "Look to Italy to see how the dangerous idea of 'remigration' is taking root in Europe",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "idea of remigration"
+                    ],
+                    [
+                        "39:60"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "dangerous"
+                    ],
+                    [
+                        "29:38"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 372,
+        "text": "Once in power, or close to it, parties from Giorgia Meloni's Brothers of Italy to Marine Le Pen's National Rally (RN) have been accused of going soft by the more extreme fringes of the right.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "more extreme fringes of the right"
+                    ],
+                    [
+                        "158:191"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "parties from Giorgia Meloni's Brothers of Italy to Marine Le Pen's National Rally"
+                    ],
+                    [
+                        "32:113"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "accused of going soft"
+                    ],
+                    [
+                        "129:150"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 373,
+        "text": "The more extreme right then ups the ante, popularising drastic and inhumane ideas – like remigration.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "more extreme right"
+                    ],
+                    [
+                        "4:22"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "ideas"
+                    ],
+                    [
+                        "76:81"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "drastic and inhumane"
+                    ],
+                    [
+                        "55:75"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 374,
+        "text": "In Germany, it was embraced ahead of last year's election by Alternative für Deutschland (AfD), today leading national polls.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Alternative für Deutschland"
+                    ],
+                    [
+                        "61:88"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "it"
+                    ],
+                    [
+                        "12:14"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "embraced"
+                    ],
+                    [
+                        "19:27"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 375,
+        "text": "In July, the official party platform dropped the word \"remigration\", after courts ruled the idea unconstitutionally discriminatory against even German citizens.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "courts"
+                    ],
+                    [
+                        "75:81"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "idea"
+                    ],
+                    [
+                        "92:96"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "unconstitutionally discriminatory"
+                    ],
+                    [
+                        "97:130"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 376,
+        "text": "Yet AfD state chapters and politicians have notably maintained warm relations with the pro-remigration Austrian ethno-nationalist Martin Sellner, who met AfD lawmakers to discuss the policy in a state parliament last month.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AfD state chapters and politicians"
+                    ],
+                    [
+                        "4:38"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Martin Sellner"
+                    ],
+                    [
+                        "130:144"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "maintained warm relations"
+                    ],
+                    [
+                        "52:77"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 377,
+        "text": "In Italy, the deputy prime minister Matteo Salvini's League became the first governing party in the EU to embrace 'remigration'.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Matteo Salvini's League"
+                    ],
+                    [
+                        "36:59"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "'remigration'"
+                    ],
+                    [
+                        "114:127"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "embrace"
+                    ],
+                    [
+                        "96:103"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 378,
+        "text": "Italy – the birthplace of fascism – especially shows how once-marginal ideas can gain traction.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "once-marginal ideas"
+                    ],
+                    [
+                        "55:74"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "gain traction"
+                    ],
+                    [
+                        "78:91"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 379,
+        "text": "Ultimately, the event was blocked by leftwing MPs, who occupied the room and sang anti-fascist anthem Bella Ciao.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "leftwing MPs"
+                    ],
+                    [
+                        "37:49"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "event"
+                    ],
+                    [
+                        "16:21"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "was blocked"
+                    ],
+                    [
+                        "22:25"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 380,
+        "text": "There surely are tensions within the right over this idea.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "idea"
+                    ],
+                    [
+                        "53:57"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "There surely are tensions"
+                    ],
+                    [
+                        "0:25"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 381,
+        "text": "The petition's organisers, who have now gathered 114,000 signatures, hope to force a referendum – and, if the governing parties don't allow it, to denounce their inaction.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "petition's organisers"
+                    ],
+                    [
+                        "4:25"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "governing parties"
+                    ],
+                    [
+                        "110:127"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "denounce their inaction"
+                    ],
+                    [
+                        "147:170"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 382,
+        "text": "Meloni's party has long warned against migrant 'invasions' and 'ethnic substitution' but is unlikely to accept the call for a referendum insofar as it doesn't want the political initiative to be dictated by small extraparliamentary groups.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Meloni's party"
+                    ],
+                    [
+                        "0:14"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "migrant 'invasions'",
+                        "'ethnic substitution'"
+                    ],
+                    [
+                        "39:58",
+                        "63:84"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "warned against"
+                    ],
+                    [
+                        "24:38"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "Meloni's party"
+                    ],
+                    [
+                        "0:14"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "call for a referendum"
+                    ],
+                    [
+                        "115:136"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "unlikely to accept"
+                    ],
+                    [
+                        "92:110"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 383,
+        "text": "For Salvini's League, which trails far behind Meloni's party in polls, posturing around remigration offers red meat to its activist base, placing it to the right of the prime minister.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Salvini's League"
+                    ],
+                    [
+                        "4:20"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "activist base"
+                    ],
+                    [
+                        "94:107"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "posturing around remigration offers red meat"
+                    ],
+                    [
+                        "123:136"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 384,
+        "text": "If this might not save Salvini's poor poll numbers, one reason is that remigration already has a stronger spokesperson in former general Roberto Vannacci.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "poll numbers"
+                    ],
+                    [
+                        "38:50"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "poor"
+                    ],
+                    [
+                        "33:37"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 385,
+        "text": "The career soldier caused a sensation with his self-published 2023 book The World Upside Down, which decried mass immigration and the \"normalisation\" of gay people.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "2023 book The World Upside Down"
+                    ],
+                    [
+                        "62:93"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "caused a sensation"
+                    ],
+                    [
+                        "19:37"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "2023 book The World Upside Down"
+                    ],
+                    [
+                        "62:93"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "decried"
+                    ],
+                    [
+                        "101:108"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "mass immigration and the 'normalisation' of gay people"
+                    ],
+                    [
+                        "109:163"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 386,
+        "text": "Yet Vannacci enjoys broad renown, and his embrace of the slogan can bring it far wider attention.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Vannacci"
+                    ],
+                    [
+                        "4:12"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "broad renown"
+                    ],
+                    [
+                        "20:32"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "enjoys"
+                    ],
+                    [
+                        "13:19"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "his"
+                    ],
+                    [
+                        "38:49"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "slogan"
+                    ],
+                    [
+                        "57:63"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "embrace"
+                    ],
+                    [
+                        "42:49"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 387,
+        "text": "Before becoming prime minister in October 2022, Meloni had herself warned of the \"ethnic substitution\" of Italians.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Meloni"
+                    ],
+                    [
+                        "48:54"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "ethnic substitution of Italians"
+                    ],
+                    [
+                        "81:114"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "warned of"
+                    ],
+                    [
+                        "67:76"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 388,
+        "text": "Even in the 1990s, National Alliance, one of the forerunners of Meloni's party, accepted temporary labour migration as a necessary evil, while resisting an 'ethnic and cultural dilution of Italy'.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "National Alliance"
+                    ],
+                    [
+                        "19:36"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "temporary labour migration"
+                    ],
+                    [
+                        "89:115"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "accepted as a necessary evil"
+                    ],
+                    [
+                        "121:135"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "National Alliance"
+                    ],
+                    [
+                        "19:36"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "'ethnic and cultural dilution of Italy'"
+                    ],
+                    [
+                        "118:158"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "resisting"
+                    ],
+                    [
+                        "156:195"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 389,
+        "text": "Migrants could be tolerated temporarily, but not as equals with rights that they could pass on to their children.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Migrants"
+                    ],
+                    [
+                        "0:8"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "tolerated temporarily, but not as equals"
+                    ],
+                    [
+                        "18:58"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 390,
+        "text": "Last month, the head of Meloni's group of MPs claimed that calls for ius soli undermined democracy itself.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "head of Meloni's group of MPs"
+                    ],
+                    [
+                        "16:45"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "calls for ius soli"
+                    ],
+                    [
+                        "59:77"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "undermined democracy itself"
+                    ],
+                    [
+                        "77:105"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 391,
+        "text": "While multiple survivor testimonies indicate that Epstein regarded the girls and women he trafficked as of such low consequence he didn't even need to bother to groom them – per Virginia Giuffre's account, Epstein raped her the first time they met – all of his resources, via a variety of tactics, went into capturing the allegiances of powerful men.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "multiple survivor testimonies"
+                    ],
+                    [
+                        "6:35"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Epstein"
+                    ],
+                    [
+                        "50:57"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "regarded the girls and women he trafficked as of such low consequence he didn't even need to bother to groom them"
+                    ],
+                    [
+                        "58:171"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "Epstein"
+                    ],
+                    [
+                        "50:57"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "powerful men"
+                    ],
+                    [
+                        "337:349"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "capturing the allegiances"
+                    ],
+                    [
+                        "308:333"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 392,
+        "text": "Perhaps you saw the video from 2022, now widely circulating, in which Mountbatten-Windsor's former protection officer told an Australian news channel that the nickname they had for their royal boss was 'the cunt'.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Mountbatten-Windsor's former protection officer"
+                    ],
+                    [
+                        "70:117"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "their royal boss"
+                    ],
+                    [
+                        "181:197"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "'the cunt'"
+                    ],
+                    [
+                        "202:212"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 393,
+        "text": "With slightly more civility, Labour MP Chris Bryant on Tuesday called Mountbatten-Windsor 'rude, arrogant and entitled', observations that may prove useful in explaining just how Epstein excited such loyalty from the eighth in line to the throne.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Labour MP Chris Bryant"
+                    ],
+                    [
+                        "29:51"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Mountbatten-Windsor"
+                    ],
+                    [
+                        "69:89"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "'rude, arrogant and entitled'"
+                    ],
+                    [
+                        "90:119"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "eighth in line to the throne"
+                    ],
+                    [
+                        "217:245"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Epstein"
+                    ],
+                    [
+                        "179:186"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "loyalty"
+                    ],
+                    [
+                        "200:207"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 394,
+        "text": "In Mountbatten-Windsor we see a vain, weak, entitled man living in the shadow of his brother, and whom Epstein may have lured into friendship through a combination of flattery and the performance of power.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Mountbatten-Windsor"
+                    ],
+                    [
+                        "3:22"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "vain, weak, entitled man living in the shadow of his brother"
+                    ],
+                    [
+                        "32:92"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 395,
+        "text": "His tone towards the former prince and his ex-wife, Sarah Ferguson, often borders on rude, ordering them around, barking directions in a sort of parody of a thrusting, dynamic businessman who is there to offer the pair a shot at something they've never in all their lives had – real, centre-of-the-machine relevance.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "His tone"
+                    ],
+                    [
+                        "0:8"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the former prince and his ex-wife"
+                    ],
+                    [
+                        "17:50"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "borders on rude, ordering them around, barking directions in a sort of parody"
+                    ],
+                    [
+                        "74:152"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 396,
+        "text": "It's a terrible passage, not least because, if we believe Giuffre's account, Minsky is clearly desperately awkward about what he is doing.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "passage"
+                    ],
+                    [
+                        "16:23"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "terrible"
+                    ],
+                    [
+                        "7:15"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 397,
+        "text": "Epstein allegedly offered this man an opportunity to play out a fantasy version of himself that – Google the guy – is wildly out of line with reality, and, my God, he grabbed it.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "guy"
+                    ],
+                    [
+                        "109:112"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "wildly out of line with reality"
+                    ],
+                    [
+                        "115:149"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 398,
+        "text": "Epstein could help them with that and, judging by how and at what risk they continued to appease him, they loved him for it.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "they"
+                    ],
+                    [
+                        "71:75"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "him"
+                    ],
+                    [
+                        "97:100"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "continued to appease",
+                        "loved him for it"
+                    ],
+                    [
+                        "76:96",
+                        "107:123"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 399,
+        "text": "Great news! Bookies think Labour can win the next election.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Bookies think Labour can win the next election"
+                    ],
+                    [
+                        "12:58"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "Great news"
+                    ],
+                    [
+                        "0:10"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "Bookies"
+                    ],
+                    [
+                        "12:19"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Labour"
+                    ],
+                    [
+                        "26:32"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "can win"
+                    ],
+                    [
+                        "33:40"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 400,
+        "text": "Bad news! It's down to Elon Musk",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "It's"
+                    ],
+                    [
+                        "10:14"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "Bad news"
+                    ],
+                    [
+                        "0:8"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 401,
+        "text": "I fear that Labour may read the wrong message from all this",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Labour"
+                    ],
+                    [
+                        "12:18"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "fear",
+                        "may read the wrong message"
+                    ],
+                    [
+                        "2:6",
+                        "19:46"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 402,
+        "text": "It's just one bookie and it's just one February day in the week of a chaotic byelection, but it's happened: for the first time in 18 months, Star Sports has staked Labour as most likely to win the general election.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Star Sports"
+                    ],
+                    [
+                        "141:152"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Labour"
+                    ],
+                    [
+                        "164:170"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "staked",
+                        "as most likely to win"
+                    ],
+                    [
+                        "157:163",
+                        "171:192"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 403,
+        "text": "So at the very least, I know he's right about one thing: if you'd score 13 quid off an £8 stake at Starmer's victory, and £15 from the same at Nigel Farage's, then things are less bleak for Labour than they seem.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "he's"
+                    ],
+                    [
+                        "29:33"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "right about one thing"
+                    ],
+                    [
+                        "34:55"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 404,
+        "text": "Let's not sweat the far-right posturing and the eerie, gaslit nostalgia of the language: it's only interesting in so far as Restore Britain is doing to Reform what Reform did to the Tories, taking its basest instincts and pushing them just that little bit further.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "far-right posturing",
+                        "eerie, gaslit nostalgia of the language"
+                    ],
+                    [
+                        "17:36",
+                        "45:82"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "not sweat"
+                    ],
+                    [
+                        "6:15"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 405,
+        "text": "It's devilishly divisive, because half of Reform right this minute isn't thinking about Labour at all, they're yelling: \"We'll see their Great Clarification Act and raise them a final purification bill\", while the other half is cooing: \"Leave it, lads, they're not worth it.\"",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "It's"
+                    ],
+                    [
+                        "0:3"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "devilishly divisive"
+                    ],
+                    [
+                        "5:24"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "other half"
+                    ],
+                    [
+                        "212:222"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "lads"
+                    ],
+                    [
+                        "235:239"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "Leave it",
+                        "not worth it"
+                    ],
+                    [
+                        "225:233",
+                        "249:261"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 406,
+        "text": "Or it could endlessly contort itself, trying to amplify candidates who sound more like Restore, until no one can remember the difference and the only Farage-fans left are simply sentimentally attached to him.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Farage-fans"
+                    ],
+                    [
+                        "150:161"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "him"
+                    ],
+                    [
+                        "204:207"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "simply sentimentally attached"
+                    ],
+                    [
+                        "171:200"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 407,
+        "text": "Reform won't like it up 'em, which makes it all the more delightful to watch, but that doesn't alter the fact that every political figure or party emerging to tout more cheap fascism is changing the centre of political gravity, changing what's allowable in public discourse, changing the conversations in the Moral Maze production office, where they consider which guest can most politely make the case for an ethno-nationalist points-based benefit system and mass deportations.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Reform"
+                    ],
+                    [
+                        "0:6"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "won't like it up 'em"
+                    ],
+                    [
+                        "7:26"
+                    ]
+                ],
+                "Polarity": "POS"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "it all"
+                    ],
+                    [
+                        "41:47"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "delightful to watch"
+                    ],
+                    [
+                        "57:76"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 408,
+        "text": "In other words, Restore Britain isn't funny, even if its immediate impact is quite funny.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Restore Britain"
+                    ],
+                    [
+                        "16:31"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "isn't funny"
+                    ],
+                    [
+                        "32:43"
+                    ]
+                ],
+                "Polarity": "NEG"
+            },
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "its immediate impact"
+                    ],
+                    [
+                        "53:73"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "quite funny"
+                    ],
+                    [
+                        "77:88"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 409,
+        "text": "Only six months ago, Reform did look, if not unassailable, at least chillingly self-assured.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Reform"
+                    ],
+                    [
+                        "21:27"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "chillingly self-assured"
+                    ],
+                    [
+                        "68:91"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 410,
+        "text": "The early adopter Tim Montgomerie, who set up the Conservative Home website back in the day, told me in the autumn he intended to do the same for Reform, and I said: “What are you going to call it, Refome?”, and he said: “No, I’m going to call it 900 days.” Some exceedingly quick maths later, I realised he meant that that was the number of days before he thought it would be in government. I'm not even exaggerating when I say that my blood ran cold.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "900 days"
+                    ],
+                    [
+                        "247:255"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "my blood ran cold"
+                    ],
+                    [
+                        "434:451"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 411,
+        "text": "How is Reform's charmless candidate still a contender in Gorton and Denton?",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "candidate"
+                    ],
+                    [
+                        "26:35"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "charmless"
+                    ],
+                    [
+                        "16:25"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 412,
+        "text": "Every barb Labour has directed at the Greens can now be returned with interest. \"It's a wasted vote.\"",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "Labour"
+                    ],
+                    [
+                        "11:17"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Greens"
+                    ],
+                    [
+                        "38:44"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "wasted vote"
+                    ],
+                    [
+                        "88:99"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 413,
+        "text": "In their byelection contender, Hannah Spencer, they have a brilliant candidate: a working plumber and plasterer with first-hand experience of the cracks and leaks in our social fabric and bright ideas for fixing them.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Hannah Spencer"
+                    ],
+                    [
+                        "31:45"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "brilliant candidate",
+                        "bright ideas for fixing them"
+                    ],
+                    [
+                        "59:78",
+                        "186:214"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 414,
+        "text": "Here and in many other constituencies, the Greens now appear to be the most plausible opposition to take on the extreme right.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Greens"
+                    ],
+                    [
+                        "43:49"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "most plausible opposition to take on the extreme right"
+                    ],
+                    [
+                        "71:125"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 415,
+        "text": "But I'm using this outrageous proposal to highlight two things.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "proposal"
+                    ],
+                    [
+                        "30:38"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "outrageous"
+                    ],
+                    [
+                        "19:29"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 416,
+        "text": "The second is that its claim to be laser-focused on stopping Reform rings hollow the moment it falls behind another contender in the polls.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "its claim"
+                    ],
+                    [
+                        "19:28"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "rings hollow"
+                    ],
+                    [
+                        "77:89"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 417,
+        "text": "I cannot emphasise this enough: the only thing that would allow Nigel Farage's party to take power is our unfair and undemocratic first-past-the-post system – and Starmer's determination to maintain it.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "first-past-the-post system"
+                    ],
+                    [
+                        "130:156"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "unfair and undemocratic"
+                    ],
+                    [
+                        "106:129"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 418,
+        "text": "None of the other attack lines came anywhere near this for efficacy.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "other attack lines"
+                    ],
+                    [
+                        "12:30"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "None came anywhere near this for efficacy"
+                    ],
+                    [
+                        "0:4",
+                        "31:67"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 419,
+        "text": "One by one, it has destroyed the hopes that people vested in it, alienating potential voters on everything from Gaza to benefits to its self-destructive apeing of Reform's rhetoric on immigration; from its vicious factional warfare against leftwingers in the party to its tearing up of environmental protections and attacks on wildlife, which, in a country of nature lovers, is utter, self-defeating madness.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "it"
+                    ],
+                    [
+                        "12:14"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "destroyed the hopes",
+                        "alienating potential voters",
+                        "self-destructive apeing",
+                        "vicious factional warfare",
+                        "tearing up of environmental protections",
+                        "attacks on wildlife",
+                        "utter, self-defeating madness"
+                    ],
+                    [
+                        "19:38",
+                        "65:91",
+                        "121:144",
+                        "182:208",
+                        "226:264",
+                        "269:288",
+                        "332:361"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 420,
+        "text": "Disgust and disillusionment among former supporters is everywhere palpable.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "former supporters"
+                    ],
+                    [
+                        "34:51"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "Disgust and disillusionment"
+                    ],
+                    [
+                        "0:27"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 421,
+        "text": "Not only was Gorton and Denton among its safest seats, but the Reform candidate, Matt Goodwin, is among the most unprepossessing people I've ever met.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Matt Goodwin"
+                    ],
+                    [
+                        "81:93"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "most unprepossessing people I've ever met"
+                    ],
+                    [
+                        "107:148"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 422,
+        "text": "He came across as utterly charmless and squirming with discomfort.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "He"
+                    ],
+                    [
+                        "0:2"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "utterly charmless",
+                        "squirming with discomfort"
+                    ],
+                    [
+                        "18:35",
+                        "40:64"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 423,
+        "text": "For God's sake, don't let him near the voters!",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "him"
+                    ],
+                    [
+                        "26:29"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "don't let near the voters"
+                    ],
+                    [
+                        "16:45"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 424,
+        "text": "Last week the Guardian revealed that Goodwin was accused by a young woman working at GB News, where he presents a show, of making inappropriate comments that she took to be sexual harassment, causing her great distress.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "young woman"
+                    ],
+                    [
+                        "62:73"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Goodwin"
+                    ],
+                    [
+                        "37:44"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "accused of making inappropriate comments that she took to be sexual harassment",
+                        "causing her great distress"
+                    ],
+                    [
+                        "49:158",
+                        "160:187"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 425,
+        "text": "Ah yes, like \"Boris being Boris\": the endless licence granted to the most obnoxious men in politics, while denied to everyone else.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "men"
+                    ],
+                    [
+                        "84:87"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "the most obnoxious"
+                    ],
+                    [
+                        "65:83"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 426,
+        "text": "I'm delighted to see how well the Greens are doing.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Greens"
+                    ],
+                    [
+                        "34:40"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "delighted to see how well are doing"
+                    ],
+                    [
+                        "4:33",
+                        "45:51"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 427,
+        "text": "It's tragic to witness how Starmer and his moral bypass of a government have ruined it – and opened the door to something much worse.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Starmer and his moral bypass of a government"
+                    ],
+                    [
+                        "27:71"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "tragic",
+                        "ruined it",
+                        "opened the door to something much worse"
+                    ],
+                    [
+                        "5:11",
+                        "77:86",
+                        "91:132"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 428,
+        "text": "I was at the Baftas – and while hearing the N-word was unsettling, all anger should be aimed at the BBC",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "hearing the N-word"
+                    ],
+                    [
+                        "32:50"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "unsettling"
+                    ],
+                    [
+                        "55:65"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 429,
+        "text": "When the host, Alan Cumming, was on stage we heard \"boring\" and there was laughter.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "'boring'"
+                    ],
+                    [
+                        "53:61"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "there was laughter"
+                    ],
+                    [
+                        "66:84"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 430,
+        "text": "When the outgoing chair of Bafta, Sara Putt, was speaking, we heard \"shut the fuck up\" and there was a mix of knowing silence and confusion.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "'shut the fuck up'"
+                    ],
+                    [
+                        "69:87"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "there was a mix of knowing silence and confusion"
+                    ],
+                    [
+                        "93:141"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 431,
+        "text": "But, as you all now know, it was when Sinners actors Michael B Jordan and Delroy Lindo presented an award that the tics transmuted from things that would be read as benignly antisocial to more outright offensive, as we heard the N-word. There were gasps and whispers of \"did he just say … ?\"",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "NULL"
+                    ],
+                    [
+                        "0:0"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "N-word"
+                    ],
+                    [
+                        "229:235"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "There were gasps and whispers of 'did he just say … ?'"
+                    ],
+                    [
+                        "237:292"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 432,
+        "text": "And I suppose you would expect that I was immediately upset or angered by it.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "I"
+                    ],
+                    [
+                        "36:37"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "upset or angered"
+                    ],
+                    [
+                        "54:70"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 433,
+        "text": "In truth, the most I felt was a degree of awkwardness.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "I"
+                    ],
+                    [
+                        "17:18"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "felt a degree of awkwardness"
+                    ],
+                    [
+                        "19:47"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 434,
+        "text": "But, God, isn't this the worst possible outcome you could imagine?",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "this"
+                    ],
+                    [
+                        "17:21"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "worst possible outcome"
+                    ],
+                    [
+                        "26:48"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 435,
+        "text": "I even started laughing, thinking of everything that came together here at once.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "I"
+                    ],
+                    [
+                        "0:1"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "started laughing"
+                    ],
+                    [
+                        "7:23"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 436,
+        "text": "I also felt immensely sad for Jordan and Lindo, seeing their faces drop as they stood on stage only to hear that word.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Jordan and Lindo"
+                    ],
+                    [
+                        "30:46"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "felt immensely sad for"
+                    ],
+                    [
+                        "7:29"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 437,
+        "text": "And so I empathised with their mental strength and magnanimity to simply go on and continue with their duties.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "their mental strength and magnanimity to simply go on and continue with their duties"
+                    ],
+                    [
+                        "25:110"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "empathised with"
+                    ],
+                    [
+                        "9:24"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 438,
+        "text": "\"No race, no denomination, no gender, no sexuality, no religion is safe,\" she said.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "she"
+                    ],
+                    [
+                        "74:77"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "No race, no denomination, no gender, no sexuality, no religion"
+                    ],
+                    [
+                        "1:63"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "is safe"
+                    ],
+                    [
+                        "64:71"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 439,
+        "text": "Such a condition should only be met with deep empathy and understanding.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Such a condition"
+                    ],
+                    [
+                        "0:16"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "should only be met with deep empathy and understanding"
+                    ],
+                    [
+                        "17:71"
+                    ]
+                ],
+                "Polarity": "POS"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 440,
+        "text": "After releasing a statement saying that he was \"deeply mortified if anyone considers my involuntary tics to be intentional or to carry any meaning\", Davidson said that he has reached out to Warner Bros, the studio behind Sinners, to directly apologise to Jordan and Lindo.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "he"
+                    ],
+                    [
+                        "40:42"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "anyone considers my involuntary tics to be intentional or to carry any meaning"
+                    ],
+                    [
+                        "68:147"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "deeply mortified"
+                    ],
+                    [
+                        "48:64"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 441,
+        "text": "It is an uncomfortable truth that inclusion will be jarring and emotionally complicated for a host of reasons.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "inclusion"
+                    ],
+                    [
+                        "34:43"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "uncomfortable truth",
+                        "jarring and emotionally complicated"
+                    ],
+                    [
+                        "6:28",
+                        "52:88"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 442,
+        "text": "That this has concerned such a slur has been deeply unfortunate.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "That this has concerned such a slur"
+                    ],
+                    [
+                        "0:35"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "deeply unfortunate"
+                    ],
+                    [
+                        "45:63"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 443,
+        "text": "What I cannot countenance is the BBC's decision not to edit out the N-word tic, despite there being a delay in broadcast.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the BBC's decision not to edit out"
+                    ],
+                    [
+                        "29:62"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "cannot countenance"
+                    ],
+                    [
+                        "7:25"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 444,
+        "text": "I left the room with a sense of understanding, even if I was a little unsettled by the incident.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the incident"
+                    ],
+                    [
+                        "84:96"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "a little unsettled"
+                    ],
+                    [
+                        "61:79"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
+    },
+    {
+        "sent_id": 445,
+        "text": "But I have been left much sadder by the broadcaster's negligence.",
+        "opinions": [
+            {
+                "Source": [
+                    [
+                        "AUTHOR"
+                    ],
+                    [
+                        "NULL"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "the broadcaster's negligence"
+                    ],
+                    [
+                        "36:64"
+                    ]
+                ],
+                "Polar_expression": [
+                    [
+                        "left much sadder by"
+                    ],
+                    [
+                        "11:30"
+                    ]
+                ],
+                "Polarity": "NEG"
+            }
+        ],
+        "tag": "politics"
     }
 ]
